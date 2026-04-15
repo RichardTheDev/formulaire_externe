@@ -64,7 +64,7 @@ def compress_image(image_bytes: bytes) -> str:
 
 
 # Interface utilisateur Streamlit
-st.title("Formulaire de dépôt Rhino Certification pour Elite Renovationmm")
+st.title("Formulaire de dépôt Rhino Certification pour ABECO")
 
 # Affichage des crédits disponibles
 credits_placeholder = st.empty()
